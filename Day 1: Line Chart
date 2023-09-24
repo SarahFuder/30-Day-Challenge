@@ -1,0 +1,44 @@
+## Day 1: Line Chart - Historical Stock Data Analysis
+
+# Data Source Selection: Obtain historical stock data from Domino's Pizza using Yahoo Finance.
+https://finance.yahoo.com/quote/DPZ/history?p=DPZ
+
+# Data Download: Download the last six months of daily historical price data as a CSV file.
+
+# Data Import: Open the CSV file using Excel.
+
+# Data Organization:
+
+Rename the current worksheet to "Original Data."
+Create new worksheets named "Working Data," "Pivot Chart," and "Line Chart."
+
+# Data Preparation:
+
+Copy and paste the downloaded data into the "Working Data" worksheet.
+Perform a duplicate check on the "Date" column; ensure no duplicates exist.
+Check for outliers and missing values, verifying that none are present.
+
+# Data Transfer:
+
+Copy the "Date" and "Adj. Close" columns and paste them into the "Line Chart" worksheet.
+
+# Chart Creation:
+
+Create a line chart with a trend line using the "Adj. Close" data.
+Customize chart colors and styles as needed.
+
+# Comparison Analysis:
+
+Introduce two additional companies, McDonald's and Starbucks, for comparative analysis.
+Retrieve historical stock data for McDonald's and Starbucks from Yahoo Finance.
+https://finance.yahoo.com/quote/SBUX/history?p=SBUX
+https://finance.yahoo.com/quote/MCD/history?p=MCD
+
+Open the new data files within the same Excel workbook.
+Copy and paste the "Adj. Close" data for both companies into the "Line Chart" worksheet.
+
+# Multi-Company Line Chart:
+
+Create a line chart that incorporates data from Domino's Pizza, McDonald's, and Starbucks.
+Fine-tune chart aesthetics, such as color schemes and text simplification.
+
