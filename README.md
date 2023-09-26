@@ -9,7 +9,6 @@ The 30-Day Chart Challenge is a personal data visualization challenge designed t
 
 ### Day 01: Line Chart 
 Historical Stock Price Comparison from my favorite out-food locations.
-Clean Data 
 
 ### Day 02: Bar Chart
 Uncovering Vincent VanGogh's Signature Style and Genre Across a Lifetime of Projects.
